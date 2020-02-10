@@ -6,7 +6,7 @@
 * Nodejs send Image to Python
 * Detection object
 * Find Main object
-* Expand image around Main_object fitting rate
+* Expand image around Main_object fitting rate (default 16:9)
 * return web~
 
 Python_code
