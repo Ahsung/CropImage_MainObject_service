@@ -14,7 +14,8 @@ Python_code
 > * Need detectron2, cv2
 > * provide ImageTool module
 
-Need Module
+
+Requirements Module
 --------------------------------------------------
 > * multer
 > * express
