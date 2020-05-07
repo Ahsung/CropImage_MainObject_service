@@ -13,3 +13,10 @@ Python_code
 ----------------------------------------------------
 > * Need detectron2, cv2
 > * provide ImageTool module
+
+Need Module
+--------------------------------------------------
+> * multer
+> * express
+> * ejs
+> * python-shell
